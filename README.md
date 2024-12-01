@@ -1,6 +1,6 @@
 # Amazon Clone UI
 
-This repository contains a user interface (UI) clone of Amazon.com website. The project is built using **HTML** and *CSS**, focusing on replicating the visual design without any backend functionality.
+This repository contains a user interface (UI) clone of Amazon.com website. The project is built using **HTML** and **CSS**, focusing on replicating the visual design without any backend functionality.
 
 ---
 
@@ -51,12 +51,18 @@ This repository contains a user interface (UI) clone of Amazon.com website. The 
 
 ---
 
+## Future Enhancements
+- Add Javascript for interactivity.
+- Implement backend functionality using PHP
+- Add responsiveness for better mobile compatibility
+
+---
+
 ## Project Structure
 The structure of the project is as follows:
 
-```plaintext
-Amazon-Clone-UI/
-|---Amazon.html    # Main HTML file
+```bash
+Amazon-Clone-UI |---Amazon.html    # Main HTML file
 |---MyStyle.css    # CSS for styling
 |---Images         # Folder containing all image assests
 |---ScreenShots    # Folder containing screenshots
